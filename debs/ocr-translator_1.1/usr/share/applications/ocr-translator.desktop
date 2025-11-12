@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=OCR Translator Overlay
+Comment=Перевод выделенной области экрана (OCR + overlay)
+Exec=/usr/local/bin/ocr-translate.sh
+Icon=utilities-terminal
+Categories=Utility;
+StartupNotify=false
