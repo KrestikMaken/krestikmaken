@@ -3,7 +3,7 @@ Version: 1.1
 Architecture: all
 Maintainer: Your Name <you@example.com>
 Depends: slop, maim, imagemagick, tesseract-ocr, tesseract-ocr-eng, tesseract-ocr-rus, translate-shell, yad, xdotool, xclip, x11-utils, libnotify-bin
-Filename: ./ocr-translator_1.1.deb
+Filename: debs/ocr-translator_1.1.deb
 Size: 3396
 MD5sum: b47db543704135965051acfbc0b6ee89
 SHA1: 822e51d84eea26b3a3c06b289f41b0dac3fe8c20
