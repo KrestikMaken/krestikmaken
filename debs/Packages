@@ -1,0 +1,15 @@
+Package: ocr-translator
+Version: 1.1
+Architecture: all
+Maintainer: Your Name <you@example.com>
+Depends: slop, maim, imagemagick, tesseract-ocr, tesseract-ocr-eng, tesseract-ocr-rus, translate-shell, yad, xdotool, xclip, x11-utils, libnotify-bin
+Filename: ./ocr-translator_1.1.deb
+Size: 3396
+MD5sum: b47db543704135965051acfbc0b6ee89
+SHA1: 822e51d84eea26b3a3c06b289f41b0dac3fe8c20
+SHA256: 442432cf90b1b9c37049cfae03ec58427e0129333132b53e9911ad45ddc09126
+Section: utils
+Priority: optional
+Description: Overlay OCR Translator for Linux
+ Recognizes text from a selected screen area, translates it and shows a semi-transparent overlay near the selection.
+
